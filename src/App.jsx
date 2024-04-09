@@ -6,7 +6,8 @@ import { Home, About, Initiatives, Research} from './pages';
 
 const App = () => {
   return (
-    <main className="bg-black">
+    
+    <main> 
         <Router>
             <Navbar/>
             <Routes>
@@ -16,6 +17,7 @@ const App = () => {
                 <Route path="/research" element={<Research/>} />
             </Routes>
         </Router>
+
     </main>
   )
 }

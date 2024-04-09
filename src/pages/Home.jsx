@@ -82,6 +82,7 @@ const Home = () => {
 </Suspense>
       </Canvas>
     </section>
+    
   )
 }
 
