@@ -27,7 +27,10 @@ const Initiatives = () => {
        into the Eclipto archive, and can be published in our 
        journal. For pathways two and three, the resulting 
        papers can either be published in our journal OR we 
-       can help find another one.
+       can help find another one. Additionally, we are looking to recruit writers
+       for our research articles, which is a good path to take for those who have a busy
+       schedule but would still like to pursue their intrests with support from 
+       our talented staff.
 
       </p>
     </div>
